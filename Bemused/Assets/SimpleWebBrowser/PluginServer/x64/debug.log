@@ -22,3 +22,15 @@
 [0425/185803.109:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001B66A7DEF80:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
 [0425/185805.272:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001B66A7DF310:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
 [0425/185805.273:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001B66A7DFA30:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/190307.458:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0425/190307.461:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0425/190405.210:WARNING:audio_output_dispatcher_impl.cc(138)] Active proxy streams during shutdown: 1
+[0425/190405.269:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=1
+[0425/190405.299:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=2
+[0425/190405.329:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=3
+[0425/190405.360:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=4
+[0425/190405.391:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=5
+[0425/190405.427:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=6
+[0425/190405.451:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=7
+[0425/190405.481:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=8
+[0425/190408.008:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=9

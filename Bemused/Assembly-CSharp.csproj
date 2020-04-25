@@ -60,6 +60,7 @@
     <Compile Include="Assets\UI\PauseMenu.cs" />
     <Compile Include="Assets\graphics\blur_script.cs" />
     <Compile Include="Assets\graphics\interaction_script.cs" />
+    <Compile Include="Assets\graphics\pc_redirect.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\SimpleWebBrowser\PluginServer\x64\log4net.dll" />
