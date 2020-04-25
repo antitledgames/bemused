@@ -24,3 +24,15 @@
 2020-04-25 17:27:34,242 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
 2020-04-25 17:27:34,301 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:b00e274b-f07b-43cd-b1a7-757ad52d3802,port:8982
 2020-04-25 17:27:41,526 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-25 18:25:01,072 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-25 18:25:01,098 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:46df75f6-eb38-418b-9c77-34c91186901b,port:8529
+2020-04-25 18:25:11,247 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-25 18:31:14,681 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-25 18:31:14,697 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:aa7c5046-231d-4540-86f4-96afd86cc489,port:8882
+2020-04-25 18:31:20,816 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-25 18:33:09,113 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-25 18:33:09,130 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:29e308bd-85f4-4856-b561-0b7f0fcad638,port:8386
+2020-04-25 18:33:17,100 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-25 18:33:45,999 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-25 18:33:46,015 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:440ed425-a7b0-4c83-b7da-5e1d1ecccb5c,port:8178
+2020-04-25 18:33:53,487 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
