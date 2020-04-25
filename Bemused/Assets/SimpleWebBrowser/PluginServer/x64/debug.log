@@ -18,3 +18,7 @@
 [0227/170506.672:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
 [0425/164853.314:WARNING:quota_manager.cc(1833)] Create directory failed for path
 [0425/164853.314:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0425/185803.108:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001B66A7E0870:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/185803.109:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001B66A7DEF80:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/185805.272:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001B66A7DF310:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/185805.273:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001B66A7DFA30:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
