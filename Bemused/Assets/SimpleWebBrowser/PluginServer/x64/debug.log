@@ -34,3 +34,17 @@
 [0425/190405.451:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=7
 [0425/190405.481:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=8
 [0425/190408.008:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=9
+[0425/192034.016:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001C7AD789460:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/192034.017:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001C7AD78A010:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/192037.528:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001C7AD80C720:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/192037.534:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001C7AD80CAB0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/192039.306:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001C7AD80D8F0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/192039.306:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001C7AD80DC80:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/192047.544:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001C7AD80CAB0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/192047.544:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[000001C7AD80DC80:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/192104.641:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0425/192104.644:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0425/192113.305:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 3
+[0425/192558.024:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0425/192558.025:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0425/192620.181:WARNING:audio_output_dispatcher_impl.cc(138)] Active proxy streams during shutdown: 1
