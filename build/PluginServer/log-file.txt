@@ -1,0 +1,4 @@
+2020-04-27 00:06:13,867 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-27 00:06:13,941 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:1c64c32a-de45-4d2d-96c2-e0e56f5db54d,port:8944
+2020-04-27 00:06:24,056 [1] INFO  SharedPluginServer.App [(null)] - Exiting by timer,timeout:10000
+2020-04-27 00:06:24,057 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========

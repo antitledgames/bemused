@@ -116,9 +116,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14886}
     - Class: 114
-      Script: {instanceID: 16028}
+      Script: {instanceID: 20318}
     - Class: 114
-      Script: {instanceID: 16030}
+      Script: {instanceID: 20320}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -937,4 +937,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/mainScene 2.unity
   - Assets/Scenes/pc_main1.unity
   - Assets/Scenes/pc_main2.unity
-  playerPath: E:/Desktop/Bemused.exe
+  playerPath: E:/GitHub/bemused/Bemused.exe
