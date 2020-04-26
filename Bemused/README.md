@@ -7,4 +7,4 @@ Our game besides that doesn't require an internet connection to play it co-op, p
 # Accomplishments that we're proud of
 Most of the mechanics of our game are already done. We have already written a big part of our storyline. The game is dynamic enough to be easy and fast to create new levels, therefore we will make a workshop feature in the nearest future for the community to create their own adventurous puzzles.
 
-This project was submitted to EUvsVirus, [here](https://devpost.com/software/antitled-games-bemused).
+**This project was submitted to EUvsVirus, [here](https://devpost.com/software/antitled-games-bemused).**
