@@ -48,3 +48,5 @@ Bemused/Obj/
 Bemused/Builds/
 Bemused/Logs/
 Bemused/UserSettings/
+*.log
+*.log
