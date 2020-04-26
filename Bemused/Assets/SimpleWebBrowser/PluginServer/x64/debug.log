@@ -54,3 +54,4 @@
 [0425/204908.735:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[00000204BA6528C0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
 [0426/105013.483:WARNING:quota_manager.cc(1833)] Create directory failed for path
 [0426/105013.486:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/161947.487:ERROR:browser_host_impl.cc(1548)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 

@@ -11,8 +11,7 @@ namespace SimpleWebBrowser
 {
 
 
-
-
+    
     public class WebBrowser2D : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerDownHandler,
         IPointerUpHandler
     {
@@ -530,7 +529,6 @@ namespace SimpleWebBrowser
             {
                 ShowDialog();
             }
-
             //Query
             if (_startQuery)
             {
