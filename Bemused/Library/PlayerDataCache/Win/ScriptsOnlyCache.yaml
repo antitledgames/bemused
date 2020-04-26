@@ -1,20 +1,21 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - GlobalControl
     - MainMenu
+    - SceneLoader
     - SimpleWebBrowser.BrowserUI
     - SimpleWebBrowser.WebBrowser2D
     - blur_script
     - interaction_script
     - pc_redirect
+    - urlGrabber
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.SpriteShape.Runtime.dll:
     - UnityEngine.U2D.SpriteShapeController
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
-    - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
     Unity.Rider.Editor.dll:
@@ -85,37 +86,37 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12174}
     - Class: 114
-      Script: {instanceID: 12472}
+      Script: {instanceID: 12474}
     - Class: 114
-      Script: {instanceID: 12482}
+      Script: {instanceID: 12484}
     - Class: 114
-      Script: {instanceID: 12840}
+      Script: {instanceID: 12842}
     - Class: 114
-      Script: {instanceID: 12884}
+      Script: {instanceID: 12886}
     - Class: 114
-      Script: {instanceID: 12986}
+      Script: {instanceID: 12988}
     - Class: 114
-      Script: {instanceID: 13026}
+      Script: {instanceID: 13028}
     - Class: 114
-      Script: {instanceID: 13152}
+      Script: {instanceID: 13154}
     - Class: 114
-      Script: {instanceID: 13352}
+      Script: {instanceID: 13354}
     - Class: 114
-      Script: {instanceID: 13360}
+      Script: {instanceID: 13362}
     - Class: 114
-      Script: {instanceID: 13454}
+      Script: {instanceID: 13456}
     - Class: 114
-      Script: {instanceID: 14292}
+      Script: {instanceID: 14294}
     - Class: 114
-      Script: {instanceID: 14466}
+      Script: {instanceID: 14470}
     - Class: 114
-      Script: {instanceID: 14554}
+      Script: {instanceID: 14558}
     - Class: 114
-      Script: {instanceID: 14876}
+      Script: {instanceID: 14882}
     - Class: 114
-      Script: {instanceID: 16424}
+      Script: {instanceID: 16020}
     - Class: 114
-      Script: {instanceID: 16428}
+      Script: {instanceID: 16022}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -154,17 +155,17 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 12986}
+      Script: {instanceID: 12988}
     - Class: 114
-      Script: {instanceID: 13352}
+      Script: {instanceID: 13354}
     - Class: 114
-      Script: {instanceID: 13404}
+      Script: {instanceID: 13406}
     - Class: 114
-      Script: {instanceID: 13470}
+      Script: {instanceID: 13472}
     - Class: 114
-      Script: {instanceID: 14274}
+      Script: {instanceID: 14276}
     - Class: 114
-      Script: {instanceID: 21880}
+      Script: {instanceID: 14598}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -199,23 +200,33 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12084}
     - Class: 114
-      Script: {instanceID: 12482}
+      Script: {instanceID: 12174}
     - Class: 114
-      Script: {instanceID: 12630}
+      Script: {instanceID: 12270}
     - Class: 114
-      Script: {instanceID: 12840}
+      Script: {instanceID: 12484}
     - Class: 114
-      Script: {instanceID: 12986}
+      Script: {instanceID: 12632}
     - Class: 114
-      Script: {instanceID: 13152}
+      Script: {instanceID: 12842}
     - Class: 114
-      Script: {instanceID: 13200}
+      Script: {instanceID: 12988}
     - Class: 114
-      Script: {instanceID: 13352}
+      Script: {instanceID: 13028}
     - Class: 114
-      Script: {instanceID: 13454}
+      Script: {instanceID: 13154}
     - Class: 114
-      Script: {instanceID: 14414}
+      Script: {instanceID: 13202}
+    - Class: 114
+      Script: {instanceID: 13354}
+    - Class: 114
+      Script: {instanceID: 13456}
+    - Class: 114
+      Script: {instanceID: 14360}
+    - Class: 114
+      Script: {instanceID: 14418}
+    - Class: 114
+      Script: {instanceID: 15126}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -313,6 +324,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneLoader
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -633,6 +650,12 @@ ScriptsOnlyBuild:
     className: Mask
   - hash:
       serializedVersion: 2
+      Hash: d503b4eeab505867bd2dce74f1210d32
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GlobalControl
+  - hash:
+      serializedVersion: 2
       Hash: b424b4eeb810aecb0ff91c62639241e9
     assemblyName: Unity.2D.Animation.Runtime.dll
     namespaceName: UnityEngine.Experimental.U2D.Animation
@@ -699,6 +722,12 @@ ScriptsOnlyBuild:
     className: SpriteSkinEntity
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: pc_redirect
+  - hash:
+      serializedVersion: 2
       Hash: 28cfb4bd305dd11c6326cc3ee7c14138
     assemblyName: Unity.2D.Animation.Runtime.dll
     namespaceName: UnityEngine.Experimental.U2D.Animation
@@ -729,6 +758,12 @@ ScriptsOnlyBuild:
     className: TMP_ScrollbarEventHandler
   - hash:
       serializedVersion: 2
+      Hash: d04522d91cbf4d0e6fdb9a7ca9466371
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: urlGrabber
+  - hash:
+      serializedVersion: 2
       Hash: 8220b46879dc5e37db1b940c938f5744
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -751,15 +786,9 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: pc_redirect
   platform: 5
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/pc_main.unity
   - Assets/Scenes/mainScene.unity
-  playerPath: D:/unity_builds/Bemused.exe
+  playerPath: E:/Desktop/Bemused.exe
