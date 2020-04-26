@@ -4,20 +4,33 @@ using UnityEngine;
 
 public class audio_script : MonoBehaviour
 {
+    public GameObject luminitaPC, luminitaTelefon;
     public List<AudioClip> otherClips;
     public List<AudioClip> hints;
     public AudioSource audio;
     public float delay;
     private bool finished = false;
 
-    // Start is called before the first frame update
     IEnumerator Start()
     {
+        bool isGianni=true;
         foreach (AudioClip otherClip in otherClips) {
             yield return new WaitForSeconds(delay);
             audio.clip = otherClip;
+            if (isGianni)
+            {
+                luminitaPC.SetActive(true);
+                isGianni = false;
+            }
+            else
+            {
+                luminitaTelefon.SetActive(true);
+                isGianni = true;
+            }
             audio.Play();
             yield return new WaitForSeconds(audio.clip.length);
+            luminitaPC.SetActive(false);
+            luminitaTelefon.SetActive(false);
         }
         finished = true;
     }
@@ -27,13 +40,14 @@ public class audio_script : MonoBehaviour
         finished = false;
         yield return new WaitForSeconds(150);
         audio.clip = hints[Random.Range(0, 3)];
+        luminitaTelefon.SetActive(true);
         audio.Play();
         yield return new WaitForSeconds(audio.clip.length);
+        luminitaTelefon.SetActive(false);
         finished = true;
     
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (finished)
