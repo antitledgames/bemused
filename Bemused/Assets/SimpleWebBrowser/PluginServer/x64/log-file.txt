@@ -72,3 +72,13 @@
 2020-04-25 20:44:49,415 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
 2020-04-25 20:44:49,457 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:07165a0f-8169-4877-8f3d-15d01bba502e,port:8274
 2020-04-25 20:45:00,561 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-25 20:48:56,177 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-25 20:48:56,210 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:ed428358-856a-480c-a260-62c8c3c6f2d2,port:8298
+2020-04-25 20:49:10,688 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 02:59:00,591 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-26 02:59:00,629 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:82e3798e-22cd-4752-a386-b5844b5602e8,port:8382
+2020-04-26 02:59:02,959 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 10:49:59,070 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-26 10:49:59,102 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:47c120b8-4381-4d24-a0db-606f8a750b47,port:8625
+2020-04-26 10:50:16,517 [7] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 10:50:16,612 [1] ERROR SharedPluginServer.Program [(null)] - CefRuntime return 0

@@ -48,3 +48,9 @@
 [0425/192558.024:WARNING:quota_manager.cc(1833)] Create directory failed for path
 [0425/192558.025:WARNING:quota_manager.cc(1833)] Create directory failed for path
 [0425/192620.181:WARNING:audio_output_dispatcher_impl.cc(138)] Active proxy streams during shutdown: 1
+[0425/204904.806:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[00000204BA49C5F0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/204904.807:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[00000204BA49D360:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/204908.734:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[00000204BA4D60A0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0425/204908.735:WARNING:p2ptransportchannel.cc(518)] Jingle:Port[00000204BA6528C0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0426/105013.483:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/105013.486:WARNING:quota_manager.cc(1833)] Create directory failed for path
