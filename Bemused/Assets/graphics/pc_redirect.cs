@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class pc_redirect : MonoBehaviour
 {
+    public string scene;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +20,6 @@ public class pc_redirect : MonoBehaviour
 
     void OnMouseDown()
     {
-        SceneManager.LoadScene("pc_main", LoadSceneMode.Single);
+        SceneManager.LoadScene(scene, LoadSceneMode.Single);
     }
 }
