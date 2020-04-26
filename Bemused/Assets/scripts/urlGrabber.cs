@@ -28,12 +28,12 @@ public class urlGrabber : MonoBehaviour
         {
             url.text = "";
             panel.SetActive(true);
-            globalControl.hasEnteredPassword = true;
         }
         if (pass.text == pcPass && Input.GetKeyDown(KeyCode.Return))
         {
             passScreen.SetActive(false);
             desktop.SetActive(true);
+            globalControl.hasEnteredPassword = true;
         }
 
 

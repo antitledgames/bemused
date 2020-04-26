@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/mainScene - Copy.unity
+- path: Assets/Scenes/pc_main.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

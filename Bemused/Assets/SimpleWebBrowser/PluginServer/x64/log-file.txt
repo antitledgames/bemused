@@ -143,3 +143,30 @@
 2020-04-26 17:35:24,043 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
 2020-04-26 17:35:24,085 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:05380fbd-27f7-47b6-a594-992005125cbe,port:8145
 2020-04-26 17:35:50,184 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 19:13:10,250 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-26 19:13:10,304 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:bd5e0a15-ecd1-4c13-b858-068415ee2bd9,port:8428
+2020-04-26 19:13:13,905 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 19:13:14,091 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-26 19:13:14,127 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:b5e0657a-76cd-4c17-b0d2-a240c09af09c,port:8847
+2020-04-26 19:13:19,734 [8] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 19:13:19,910 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-26 19:13:19,942 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:020eb8e4-82c8-4853-b561-d2a3cc0c1bba,port:8542
+2020-04-26 19:13:23,150 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 19:13:23,338 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-26 19:13:23,370 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:16816dcb-0d43-4a67-9025-5f26f0162b51,port:8923
+2020-04-26 19:13:26,140 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 19:13:26,323 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-26 19:13:26,356 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:64dafcc3-3632-41fc-855a-a69108948922,port:8199
+2020-04-26 19:13:28,516 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 19:13:41,734 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-26 19:13:41,789 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:b8667280-f5e1-4c29-a608-454461c5b356,port:8488
+2020-04-26 19:13:44,788 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 19:13:45,973 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-26 19:13:46,008 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:b487eb2b-45c3-409b-a5f1-831ac001ebdf,port:8154
+2020-04-26 19:13:49,596 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 19:30:11,936 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-26 19:30:11,984 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:c2af860b-f4e8-497f-8c80-261d8472c5f9,port:8406
+2020-04-26 19:30:15,349 [3] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2020-04-26 19:30:16,406 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2020-04-26 19:30:16,440 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1024,height:768,url:http://www.google.com,memfile:ecdea94d-e477-4f3d-8848-43f6d5ab1482,port:8515
+2020-04-26 19:30:26,114 [9] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========

@@ -5,7 +5,7 @@ using UnityEngine;
 public class GlobalControl : MonoBehaviour
 {
     public static GlobalControl Instance;
-    public bool hasEnteredPassword=false;
+    public bool hasEnteredPassword;
     void Start()
     {
         if (Instance == null)
