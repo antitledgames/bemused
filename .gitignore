@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 Bemused/Assets/SimpleWebBrowser/PluginServer/x64/debug.log
 Bemused/Assets/SimpleWebBrowser/PluginServer/x64/log-file.txt
 Bemused/Assets/SimpleWebBrowser/PluginServer/x64/debug.log
@@ -38,3 +39,12 @@ Bemused/Library/StateCache/SceneView/a0/a0183ba6913c07558c8c11efffb5ec74.json
 Bemused/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
 Bemused/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
 Bemused/UserSettings/EditorUserSettings.asset
+Bemused/Assembly-CSharp-Editor.csproj
+Bemused/Assembly-CSharp.csproj
+Bemused/Bemused.sln
+Bemused/Temp/
+Bemused/Library/
+Bemused/Obj/
+Bemused/Builds/
+Bemused/Logs/
+Bemused/UserSettings/
