@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/tRvYu34.png">
 # Inspiration
 Everything started when we were playing a game that required an internet connection to play together, but some of us had difficulties with it. After analyzing the problem, we got to the conclusion that a co-op game, where an internet connection isn't required will promote communication between players.
 # What it does
