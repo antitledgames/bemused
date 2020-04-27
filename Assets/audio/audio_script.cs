@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class audio_script : MonoBehaviour
 {
@@ -19,7 +20,7 @@ public class audio_script : MonoBehaviour
             audio.clip = otherClip;
             if (isGianni)
             {
-                luminitaPC.SetActive(true);
+               
                 isGianni = false;
             }
             else
@@ -31,6 +32,7 @@ public class audio_script : MonoBehaviour
             yield return new WaitForSeconds(audio.clip.length);
             luminitaPC.SetActive(false);
             luminitaTelefon.SetActive(false);
+           
         }
         finished = true;
     }
@@ -55,4 +57,5 @@ public class audio_script : MonoBehaviour
             StartCoroutine("hintz", 0.0f);
         }
     }
+
 }

@@ -2015,8 +2015,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1161cfb08307d8f4a9e5508ccfc75b44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player1: mainScene 1
-  player2: mainScene 2
 --- !u!1 &796611744
 GameObject:
   m_ObjectHideFlags: 0
@@ -4162,7 +4160,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: CHOOSE YOUR FIGHTER
+  m_text: CHOOSE YOUR PLAYER
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
@@ -5138,8 +5136,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1161cfb08307d8f4a9e5508ccfc75b44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player1: 
-  player2: 
 --- !u!1 &1854609806
 GameObject:
   m_ObjectHideFlags: 0

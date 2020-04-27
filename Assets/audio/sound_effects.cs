@@ -24,4 +24,9 @@ public class sound_effects : MonoBehaviour
         audio.clip = soundEffect;
         audio.Play();
     }
+
+    void OnLevelWasLoaded()
+    {
+        audio = GameObject.Find("/GameMaster/sound_effects").GetComponent<AudioSource>();
+    }
 }

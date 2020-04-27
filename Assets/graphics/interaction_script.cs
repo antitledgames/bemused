@@ -30,4 +30,6 @@ public class interaction_script : MonoBehaviour
         detailedObject.GetComponent<Renderer>().enabled = true;
         blurCollider.enabled = true;  
     }
+
+
 }
